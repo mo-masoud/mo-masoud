@@ -1,25 +1,28 @@
 # 👋 Hi, I’m Mohamed
 
-I’m a Backend Engineer with strong experience in Laravel and Node.js, currently on a **12–18 month journey to transition into a Senior Software Engineer**.  
-This repo documents my learning path, projects, and progress along the way.
+Backend Engineer (Laravel/PHP) — 6+ years.  
+Also hands-on with Node.js. I’m currently focused on strengthening CS fundamentals and modern stack skills to reach Senior Software Engineer.  
+This repo documents my learning path, projects, and progress.
 
 ---
 
 ## 🚀 Current Focus
-- Building strong **Computer Science fundamentals**  
-- Practicing **system design and distributed systems**  
+- Strengthening **Computer Science fundamentals** (Big-O, recursion, DS/algorithms)  
+- Practicing **system design & distributed systems**  
 - Becoming **framework-agnostic** (beyond Laravel)  
-- Developing **portfolio-ready projects**  
+- Shipping **portfolio-ready projects** with CI/testing  
 
 ---
 
-## 📚 Learning Path
-I’m following a structured plan:
-- **Phase 1 (Months 1–6):** Foundations → Networking, Data Structures, Databases  
-- **Phase 2 (Months 7–12):** Application → Building systems without frameworks, microservices  
-- **Phase 3 (Months 13–18):** Advanced → Specialization, production systems, mentoring  
+## 📚 Learning Path (structured)
+- **Phase 1 (Months 1–3):**
+  - Month 1 — Algorithms & Node.js Fundamentals (50% CS / 50% Stack)
+  - Month 2 — Data Structures & TypeScript
+  - Month 3 — Design Patterns & Production Systems
+- **Phase 2 (Months 4–9):** Build production systems (testing, performance, databases)  
+- **Phase 3 (Months 10–…):** Advanced topics, specialization, mentoring  
 
-Details: [My Senior Engineer Learning Path](https://www.notion.so/Senior-Software-Engineer-Learning-Path-12-18-Month-Journey-25fb6863357381f0a312e7114361bf5c)
+Details & tracker: **Senior Engineer Learning Path (Notion)**
 
 ---
 
@@ -33,7 +36,7 @@ Details: [My Senior Engineer Learning Path](https://www.notion.so/Senior-Softwar
 
 ## 📂 Key Repositories
 - [learning-journey](https://github.com/mo-masoud/learning-journey) → Notes, experiments, portfolio projects  
-- More to come as I build projects along this path  
+- More to come as I build across this path  
 
 ---
 
